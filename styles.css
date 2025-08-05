@@ -7,14 +7,14 @@ h1, p {
     border: 2px solid black;
     border-radius: 20px;
     width: 800px;
-    height: 1000px;
+    height: 900px;
     margin: auto;
     padding: 10px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
-    align-content: flex-start;
+    align-content: stretch;
 }
 
 .team {
